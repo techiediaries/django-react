@@ -4,6 +4,8 @@ This is a Django project with a React front-end.
 
 The REST API is created with Django REST framework and consumed with Axios.
 
+Check out [Django React Tutorial with Example Demo](https://www.techiediaries.com/django-react-rest/)
+
 ## The CustomerList Component
 
 ![](https://screenshotscdn.firefoxusercontent.com/images/b6c13999-6cdf-4ed1-9dca-557072912320.png)
